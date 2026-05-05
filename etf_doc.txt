@@ -1,0 +1,10 @@
+
+Les ETF (Exchange Traded Funds) sont des fonds d'investissement cotés en bourse.
+Ils permettent d'investir dans un panier de valeurs en une seule transaction.
+Les ETF répliquent généralement un indice comme le CAC 40 ou le S&P 500.
+Leurs frais de gestion sont très faibles, souvent inférieurs à 0.5% par an.
+Contrairement aux fonds actifs, les ETF ne cherchent pas à battre le marché.
+Un ETF peut être acheté et vendu tout au long de la journée comme une action.
+La diversification offerte par les ETF réduit le risque global du portefeuille.
+Les ETF distribuants versent des dividendes, les ETF capitalisants les réinvestissent.
+Le PEA permet d'investir dans des ETF européens avec une fiscalité avantageuse.
